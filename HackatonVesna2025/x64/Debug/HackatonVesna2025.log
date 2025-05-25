@@ -1,0 +1,4 @@
+﻿  HackatonVesna2025.cpp
+C:\Users\nikol\source\repos\HackatonVesna2025\HackatonVesna2025\HackatonVesna2025.cpp(762,17): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\nikol\source\repos\HackatonVesna2025\HackatonVesna2025\HackatonVesna2025.cpp(304): warning C4715: CanGoHome: значение возвращается не при всех путях выполнения
+  HackatonVesna2025.vcxproj -> C:\Users\nikol\source\repos\HackatonVesna2025\x64\Debug\HackatonVesna2025.exe
